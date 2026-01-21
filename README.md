@@ -19,10 +19,10 @@ Process:
 
 Average Goals Per Match by Tier and Season
 Goal-Scoring Trends Over Time:
-![Column Chart](column_chart.png)
+![Column Chart](Column_chart.png)
 
 Average Goals per Match by Tier:
-![Line Chart](line_chart.png)
+![Line Chart](Line_chart.png)
 
 Key Findings:
 - Premier League scoring steadily increased
