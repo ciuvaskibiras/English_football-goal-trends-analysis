@@ -34,3 +34,16 @@ Key Findings:
 
 
 Spreadsheet link: https://docs.google.com/spreadsheets/d/1aB-ryfwpBDqmpwW7AunOkvAi2Z7d3YZ5ZoWbwpzzFqk/edit?usp=sharing
+
+## SQL Analysis
+
+The pivot-table analysis was replicated using SQL in PostgreSQL to calculate average goals per tier and season.
+
+Query used:  
+[Average goals by tier and season](avg_goals_by_tier_season.sql)
+
+Results:  
+[SQL Table](sql_results.csv)
+
+
+
