@@ -46,4 +46,11 @@ Results:
 [SQL Table](sql_results.csv)
 
 
+## Tableau Dashboard
+
+Interactive Tableau Public dashboard:
+
+[View Dashboard on Tableau Public](https://public.tableau.com/views/EnglishFootballGoalTrends/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 
